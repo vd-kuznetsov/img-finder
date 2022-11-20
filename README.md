@@ -11,6 +11,17 @@ The product goal is possibility to help users to quickly finding the right image
 * Image search;  
 * Search by text query (Russian/English);
 
+## Correct file structure
+
+    .
+    ├── ...
+    ├── assets
+    ├── indexes                    
+    │   ├── trip          
+    │   ├── trailer         
+    │   └── traffic                
+    └── main.py
+
 ## Usage 
 
 This project was tested on python 3.8 and requires docker and docker-compose installed.
