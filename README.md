@@ -1,5 +1,7 @@
 ## About 
 
+The project was based on developments from participation in one school where the emphasis was more on research.
+
 The product goal is possibility to help users to quickly finding the right images. 
 
 ![](https://github.com/vd-kuznetsov/img-finder/blob/main/assets/app_gif.gif)
