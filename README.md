@@ -13,11 +13,11 @@ The product goal is possibility to help users to quickly finding the right image
 
 ## Usage 
 
-This project was tested on python 3.8 and requires docker and docker-compose installed
+This project was tested on python 3.8 and requires docker and docker-compose installed.
 1. Clone this repository.
-2. Download indexers.zip: .
-3. Unzip to the project folder
-4. Go to the next paragraph in this README.md
+2. Download indexers.zip: https://drive.google.com/file/d/1FW5BvI0q_4QsrMeUjkNzbs-yy6Mv5XID/view?usp=sharing
+3. Unzip to the project folder.
+4. Go to the next paragraph in this README.md.
 
 ## Docker Build
 
