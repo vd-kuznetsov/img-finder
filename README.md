@@ -1,8 +1,6 @@
 ## About 
 
-The project was based on developments from participation in one school where the emphasis was more on research.
-
-Original repository: https://github.com/comptech-winter-school/image-finder
+The project was based on [developments](https://github.com/comptech-winter-school/image-finder) from participation in one school where the emphasis was more on research.
 
 The product goal is possibility to help users to quickly finding the right images. 
 
